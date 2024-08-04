@@ -1,0 +1,15 @@
+{
+	id: "417001b8-d984-3840-974c-49ed8300b7bf"
+	type: "player"
+	player_name: "elpatomaster"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "elpatomaster"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFC059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

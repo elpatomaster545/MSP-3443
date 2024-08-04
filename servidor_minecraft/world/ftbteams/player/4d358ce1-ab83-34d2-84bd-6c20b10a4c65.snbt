@@ -1,0 +1,17 @@
+{
+	id: "4d358ce1-ab83-34d2-84bd-6c20b10a4c65"
+	type: "player"
+	player_name: "JuanIgn"
+	ranks: {
+		4d358ce1-ab83-34d2-84bd-6c20b10a4c65: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "JuanIgn"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9A59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

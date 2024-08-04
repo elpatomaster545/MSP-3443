@@ -1,0 +1,17 @@
+{
+	id: "c5f18a85-4e74-31d8-8430-128c59bce786"
+	type: "player"
+	player_name: "liosebi"
+	ranks: {
+		c5f18a85-4e74-31d8-8430-128c59bce786: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "liosebi"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5983"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

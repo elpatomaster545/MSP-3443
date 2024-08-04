@@ -1,0 +1,17 @@
+{
+	id: "9c63a75a-ce6a-496c-b7d2-5b8d2e60033d"
+	type: "party"
+	owner: "417001b8-d984-3840-974c-49ed8300b7bf"
+	ranks: {
+		417001b8-d984-3840-974c-49ed8300b7bf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "negros"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E159FF"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1722636865079L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"elpatomaster\"}]}" }]
+	extra: { }
+}
